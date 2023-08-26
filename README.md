@@ -1,5 +1,4 @@
-# TerminalSpeedTyper
-REST API Using Flask and PyMongo
+# REST API Using Flask and PyMongo
 
 ---
 
